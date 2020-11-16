@@ -4,7 +4,7 @@
 Get Any Country Date And Time Using Python which will be something like a World clock using Python. For this, we need the datetime module and python’s timezone module i.e. pytz.
 
 # Developer
-!ganesh kavhar https://about.me/ganeshkavhar
+ganesh kavhar https://about.me/ganeshkavhar
 
 ### Output 
 
